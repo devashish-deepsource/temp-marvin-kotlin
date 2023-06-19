@@ -1,0 +1,19 @@
+{
+  "files": [
+    "pom.xml",
+    "src/main/kotlin/mkt/Main.kt",
+    "src/main/kotlin/mkt/globals.kt",
+    "src/main/kotlin/config/DetektConfigWriter.kt"
+  ],
+  "exclude_patterns": [],
+  "exclude_files": [],
+  "test_files": [],
+  "test_patterns": null,
+  "analyzer_meta": {
+    "name": "kotlin",
+    "enabled": true,
+    "meta": {
+      "kotlin_version": 14
+    }
+  }
+}
